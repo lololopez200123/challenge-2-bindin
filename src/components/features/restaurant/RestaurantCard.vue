@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-gray-50 rounded-lg mb-4 border-gray-100 border">
+  <div class="bg-gray-50 rounded-lg mb-4 border-gray-100 border cursor-pointer">
     <div class="relative">
       <div
         class="h-32 bg-gray-80 rounded-t-lg flex items-center justify-center"
